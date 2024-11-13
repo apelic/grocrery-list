@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+table, td, tr{
+    border-spacing: 10px;
+    border-color: 10px solid black;
+    
+    padding: 10px;
+}
+.title{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    border-style: solid;
+}
+.text{
+    background-color: azure;
+    text-align: left;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+
+}
+td{
+    border: 5px;
+    border-color: black;
+    padding: 20px
+
+
+}
+img{
+    height: 150%;
+    width: 150%;
+    padding: 25px;
+}
